@@ -54,7 +54,7 @@ NAVBAR ↓
     max-width: 1280px;
     margin: 0 auto;
 }
-.nav
+.nav__row
  {
     display: flex;
     justify-content: space-between;
