@@ -496,7 +496,7 @@ width: 50%;
     padding: 32px 0;
     padding-left: 64px;
 }
-.steps__description {
+.steps {
     display: flex;
     align-items: flex-start;
     margin-top: 32px;
