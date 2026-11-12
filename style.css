@@ -295,7 +295,7 @@ nav {
         margin: 8px;
         height: calc(100% - 16px);
         border-radius: 500px;
-        width: 160%;
+        width: 160px;
         border: none;
         background-color: #6415ff;
         color: #fff;
@@ -568,7 +568,8 @@ width: 50%;
 .values__description {
     padding: 32px 64px 32px 0;
 }
-.values__description, values__ img {
+.values__description,
+.values__img {
     width: 50%;
 }
 
