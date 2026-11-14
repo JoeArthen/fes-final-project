@@ -371,7 +371,7 @@ header {
 }
 #features .row__narrow {
     display: flex;
-    flex-direction: column;
+    flex-direction: row;
     align-items: center;
     }
     #features .section__title,
