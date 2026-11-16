@@ -595,7 +595,7 @@ width: 50%;
     width: 20px;
     height: 20px;
 }
-.value:nth-child(1) value__img--wrapper {
+.value:nth-child(1) .value__img--wrapper {
     background-color: #9ae6b4;
 }
 .value:nth-child(2) .value__img--wrapper {
